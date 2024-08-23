@@ -11,7 +11,7 @@
   "revocationList": "https://ishikawabsnnet.github.io/did-web-on-gh-pages/revocation-list.json",
   "publicKey": [
     {
-      "id": "ecdsa-koblitz-pubkey:0x4911F14b73A77d57A42765a35c2b3FF38cD997B4",
+      "id": "ecdsa-koblitz-pubkey:0x03a9354df921f6f6c328a85d64def33c0899f92ba63ceccd2d47badb171ede419b",
       "created": "2024-08-23 14:07:36.544746325 +0900"
     }
   ],
