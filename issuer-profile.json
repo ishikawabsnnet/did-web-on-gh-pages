@@ -1,0 +1,19 @@
+{
+  "@context": [
+    "https://w3id.org/openbadges/v2",
+    "https://w3id.org/blockcerts/v3"
+  ],
+  "type": "Profile",
+  "id": "https://ishikawabsnnet.github.io/did-web-on-gh-pages/issuer-profile.json",
+  "name": "Issuer Credential",
+  "url": "https://github.com/ishikawabsnnet/did-web-on-gh-pages",
+  "introductionURL": "https://github.com/ishikawabsnnet/did-web-on-gh-pages",
+  "revocationList": "https://ishikawabsnnet.github.io/did-web-on-gh-pages/revocation-list.json",
+  "publicKey": [
+    {
+      "id": "ecdsa-koblitz-pubkey:0x4911F14b73A77d57A42765a35c2b3FF38cD997B4",
+      "created": "2024-08-25 07:00:41.222601898 +0900"
+    }
+  ],
+  "email": "example@example.com"
+}
