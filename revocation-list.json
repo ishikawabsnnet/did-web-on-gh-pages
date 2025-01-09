@@ -1,0 +1,7 @@
+{
+    "@context": "https://w3id.org/openbadges/v2",
+    "id": "https://ishikawabsnnet.github.io/did-web-on-gh-pages/revocation-list.json",
+    "type": "RevocationList",
+    "issuer": "https://ishikawabsnnet.github.io/did-web-on-gh-pages/issuer-profile.json",
+    "revokedAssertions": []
+}
