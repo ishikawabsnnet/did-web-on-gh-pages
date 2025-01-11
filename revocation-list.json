@@ -1,0 +1,13 @@
+{
+    "@context": "https://w3id.org/openbadges/v2",
+    "id": "https://ishikawabsnnet.github.io/did-web-on-gh-pages/revocation-list.json",
+    "type": "RevocationList",
+    "issuer": "https://ishikawabsnnet.github.io/did-web-on-gh-pages/issuer-profile.json",
+    "revokedAssertions": []
+    "revokedAssertions": [
+        {
+            "id": "urn:uuid:bbba8553-8ec1-445f-82c9-a57251dd731cxxxx",
+            "revocationReason": "Honor code violation"
+        }
+    ]
+}
