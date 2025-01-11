@@ -10,8 +10,8 @@
   "publicKey": [
     {
       "id": "ecdsa-koblitz-pubkey:0x131316067835339C018b4e9F99eA1AEBE27b8c9B",
-      "created": "2024-01-10T10:00:00.000000+00:00"
+      "created": "2025-01-12 08:40:34.549599585 +0900"
     }
   ],
-  "email": "example@example.com"
+  "revocationList": "https://ishikawabsnnet.github.io/did-web-on-gh-pages/revocation-list.json"
 }
