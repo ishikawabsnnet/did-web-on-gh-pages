@@ -24,11 +24,6 @@
   ],
   "service": [
     {
-      "id": "did:ethr:0xaa36a7:0x03aa9cc5a8dfb88af97e756cb4fa4446d3524b41bca42ff8bbd17a7712fff40dc4#service-7",
-      "type": "IssuerProfile",
-      "serviceEndpoint": "https://ishikawabsnnet.github.io/did-web-on-gh-pages/issuer-profile.json"
-    },
-    {
       "id": "did:ethr:0xaa36a7:0x03aa9cc5a8dfb88af97e756cb4fa4446d3524b41bca42ff8bbd17a7712fff40dc4#service-8",
       "type": "IssuerProfile",
       "serviceEndpoint": "https://ishikawabsnnet.github.io/did-web-on-gh-pages/profile.json"
