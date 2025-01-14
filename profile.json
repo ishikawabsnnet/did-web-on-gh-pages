@@ -3,14 +3,15 @@
     "https://w3id.org/openbadges/v2",
     "https://w3id.org/blockcerts/v3"
   ],
-  "id": "https://ishikawabsnnet.github.io/did-web-on-gh-pages/profile.json",
   "type": "Profile",
-  "name": "BSN INET Co., Ltd.",
-  "url": "https://www.bsnnet.co.jp/",
-  "email": "ishikawa@bsnnet.co.jp",
+  "id": "https://ishikawabsnnet.github.io/did-web-on-gh-pages/profile.json",
+  "name": "Issuer Credential",
+  "url": "https://github.com/ishikawabsnnet/did-web-on-gh-pages",
   "publicKey": [
     {
-      "id": "ecdsa-koblitz-pubkey:0xA4E22b0Ca0d20103516F8522feBE9c5790f98277"
+      "id": "ecdsa-koblitz-pubkey:0x131316067835339C018b4e9F99eA1AEBE27b8c9B",
+      "created": "2025-01-15 08:07:27.971694368 +0900"
     }
-  ]
+  ],
+  "revocationList": "https://ishikawabsnnet.github.io/did-web-on-gh-pages/revocation-list.json"
 }
