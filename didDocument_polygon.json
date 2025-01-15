@@ -29,7 +29,7 @@
       "serviceEndpoint": "https://ishikawabsnnet.github.io/did-web-on-gh-pages/issuer-profile.json"
     },
     {
-      "id": "did:ethr:0x89:0x03aa9cc5a8dfb88af97e756cb4fa4446d3524b41bca42ff8bbd17a7712fff40dc4#service-3",
+      "id": "did:ethr:0x89:0x03aa9cc5a8dfb88af97e756cb4fa4446d3524b41bca42ff8bbd17a7712fff40dc4#service-4",
       "type": "IssuerProfile",
       "serviceEndpoint": "https://ishikawabsnnet.github.io/did-web-on-gh-pages/profile.json"
     }
