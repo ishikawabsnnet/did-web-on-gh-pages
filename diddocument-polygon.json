@@ -22,6 +22,13 @@
     "did:ethr:0x89:0x03aa9cc5a8dfb88af97e756cb4fa4446d3524b41bca42ff8bbd17a7712fff40dc4#controller",
     "did:ethr:0x89:0x03aa9cc5a8dfb88af97e756cb4fa4446d3524b41bca42ff8bbd17a7712fff40dc4#controllerKey"
   ],
+  "service": [
+    {
+      "id": "did:ethr:0x89:0x03aa9cc5a8dfb88af97e756cb4fa4446d3524b41bca42ff8bbd17a7712fff40dc4#service-22",
+      "type": "IssuerProfile",
+      "serviceEndpoint": "https://ishikawabsnnet.github.io/did-web-on-gh-pages/profile.json"
+    }
+  ],
   "@context": [
     "https://www.w3.org/ns/did/v1",
     "https://w3id.org/security/suites/secp256k1recovery-2020/v2",
