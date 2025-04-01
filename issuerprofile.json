@@ -6,8 +6,8 @@
   "revocationList": "https://ishikawabsnnet.github.io/did-web-on-gh-pages/revocationlist.json",
   "publicKey": [
     {
-      "id": "did:ethr:0x131316067835339C018b4e9F99eA1AEBE27b8c9B#owner",
-      "created": "2025-04-01T05:33:48.000000+00.00",
+      "id": "did:ethr:0xaa36a7:0x03aa9cc5a8dfb88af97e756cb4fa4446d3524b41bca42ff8bbd17a7712fff40dc4#owner",
+      "created": "2025-04-01T05:42:47.000000+00.00",
       "type": "EcdsaSecp256k1RecoveryMethod2020",
       "controller": "did:ethr:0x131316067835339C018b4e9F99eA1AEBE27b8c9B",
       "publicKeyJwk": {
