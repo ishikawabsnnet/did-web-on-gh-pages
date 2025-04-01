@@ -7,7 +7,7 @@
   "email": "info@city.tanazaki.lg.jp",
   "verificationMethod": [
     {
-      "id": "did:ethr:0xaa36a7:0x03aa9cc5a8dfb88af97e756cb4fa4446d3524b41bca42ff8bbd17a7712fff40dc4#keys-1",
+      "id": "did:ethr:0xaa36a7:0x03aa9cc5a8dfb88af97e756cb4fa4446d3524b41bca42ff8bbd17a7712fff40dc4#controllerKey",
       "type": "EcdsaSecp256k1VerificationKey2019",
       "controller": "did:ethr:0xaa36a7:0x03aa9cc5a8dfb88af97e756cb4fa4446d3524b41bca42ff8bbd17a7712fff40dc4",
       "publicKeyHex": "03aa9cc5a8dfb88af97e756cb4fa4446d3524b41bca42ff8bbd17a7712fff40dc4"
