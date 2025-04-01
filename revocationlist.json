@@ -2,7 +2,7 @@
   "@context": "https://w3id.org/blockcerts/v3",
   "id": "https://ishikawabsnnet.github.io/did-web-on-gh-pages/revocationlist.json",
   "type": "RevocationList",
-  "issuer": "did:ethr:0xaa36a7:0x03aa9cc5a8dfb88af97e756cb4fa4446d3524b41bca42ff8bbd17a7712fff40dc4",
+  "issuer": "https://ishikawabsnnet.github.io/did-web-on-gh-pages/issuerprofile.json",
   "revokedAssertions": [
     {
       "id": "urn:uuid:123e4567-e89b-12d3-a456-426614174001",
