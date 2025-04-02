@@ -1,0 +1,18 @@
+{
+  "@context": "https://w3id.org/blockcerts/v3",
+  "id": "https://ishikawabsnnet.github.io/did-web-on-gh-pages/revocationlist-sepolia.json",
+  "type": "RevocationList",
+  "issuer": "did:ethr:0xaa36a7:0x131316067835339C018b4e9F99eA1AEBE27b8c9B",
+  "revokedAssertions": [
+    {
+      "id": "urn:uuid:123e4567-e89b-12d3-a456-426614174000",
+      "revocationDate": "2025-04-02T12:00:00Z",
+      "revocationReason": "Certificate was issued in error"
+    },
+    {
+      "id": "urn:uuid:abcdef12-3456-7890-abcd-ef1234567890",
+      "revocationDate": "2025-04-05T15:30:00Z",
+      "revocationReason": "Credential holder requested revocation"
+    }
+  ]
+}
