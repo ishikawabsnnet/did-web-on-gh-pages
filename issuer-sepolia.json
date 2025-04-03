@@ -1,6 +1,6 @@
 {
   "@context": "https://w3id.org/blockcerts/v3",
-  "id": "did:ethr:0xaa36a7:0x4911F14b73A77d57A42765a35c2b3FF38cD997B4",
+  "id": "https://ishikawabsnnet.github.io/did-web-on-gh-pages/issuer-sepolia.json",
   "type": "Profile",
   "name": "大積県多奈崎市役所",
   "url": "https://hiji.mosha2.jp/",
@@ -9,7 +9,7 @@
   "publicKey": [
     {
       "id": "ecdsa-koblitz-pubkey:0x4911F14b73A77d57A42765a35c2b3FF38cD997B4",
-      "created": "2025-04-03T04:46:16.000000+00.00"
+      "created": "2025-04-03T06:28:36.000000+00.00"
     }
   ],
   "revocationList": "https://ishikawabsnnet.github.io/did-web-on-gh-pages/revocationlist-sepolia.json"
