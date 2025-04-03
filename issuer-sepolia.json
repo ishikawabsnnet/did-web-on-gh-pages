@@ -8,17 +8,10 @@
   "image": "https://ishikawabsnnet.github.io/did-web-on-gh-pages/logo.png",
   "publicKey": [
     {
-      "id": "did:ethr:0xaa36a7:0x03a9354df921f6f6c328a85d64def33c0899f92ba63ceccd2d47badb171ede419b#keys-1",
+      "id": "did:ethr:0xaa36a7:0x4911F14b73A77d57A42765a35c2b3FF38cD997B4#keys-1",
       "type": "EcdsaSecp256k1VerificationKey2019",
-      "controller": "did:ethr:0xaa36a7:0x03a9354df921f6f6c328a85d64def33c0899f92ba63ceccd2d47badb171ede419b",
+      "controller": "did:ethr:0xaa36a7:0x4911F14b73A77d57A42765a35c2b3FF38cD997B4",
       "publicKeyHex": "0x03a9354df921f6f6c328a85d64def33c0899f92ba63ceccd2d47badb171ede419b"
-    }
-  ],
-  "issuerKeys": [
-    {
-      "id": "did:ethr:0xaa36a7:0x03a9354df921f6f6c328a85d64def33c0899f92ba63ceccd2d47badb171ede419b#issuer-key-1",
-      "type": "EthereumAddress",
-      "publicKey": "0x03a9354df921f6f6c328a85d64def33c0899f92ba63ceccd2d47badb171ede419b"
     }
   ],
   "revocationList": "https://ishikawabsnnet.github.io/did-web-on-gh-pages/revocationlist-sepolia.json"
