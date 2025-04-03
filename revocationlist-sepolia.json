@@ -2,7 +2,7 @@
   "@context": "https://w3id.org/blockcerts/v3",
   "id": "https://ishikawabsnnet.github.io/did-web-on-gh-pages/revocationlist-sepolia.json",
   "type": "RevocationList",
-  "issuer": "did:ethr:0xaa36a7:0x4911F14b73A77d57A42765a35c2b3FF38cD997B4",
+  "issuer": "https://ishikawabsnnet.github.io/did-web-on-gh-pages/issuer-sepolia.json",
   "revokedAssertions": [
     {
       "id": "urn:uuid:123e4567-e89b-12d3-a456-426614174000",
