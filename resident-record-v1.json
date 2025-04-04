@@ -1,17 +1,21 @@
 {
-  "@context": {
-    "birthDate": "https://ishikawabsnnet.github.io/did-web-on-gh-pages/resident-record-v1#birthDate",
-    "address": "https://ishikawabsnnet.github.io/did-web-on-gh-pages/resident-record-v1#address",
-    "country": "https://ishikawabsnnet.github.io/did-web-on-gh-pages/resident-record-v1#country",
-    "gender": "https://ishikawabsnnet.github.io/did-web-on-gh-pages/resident-record-v1#gender",
-    "household": "https://ishikawabsnnet.github.io/did-web-on-gh-pages/resident-record-v1#household",
-    "locality": "https://ishikawabsnnet.github.io/did-web-on-gh-pages/resident-record-v1#locality",
-    "nationality": "https://ishikawabsnnet.github.io/did-web-on-gh-pages/resident-record-v1#nationality",
-    "postalCode": "https://ishikawabsnnet.github.io/did-web-on-gh-pages/resident-record-v1#postalCode",
-    "region": "https://ishikawabsnnet.github.io/did-web-on-gh-pages/resident-record-v1#region",
-    "relationship": "https://ishikawabsnnet.github.io/did-web-on-gh-pages/resident-record-v1#relationship",
-    "residentSince": "https://ishikawabsnnet.github.io/did-web-on-gh-pages/resident-record-v1#residentSince",
-    "streetAddress": "https://ishikawabsnnet.github.io/did-web-on-gh-pages/resident-record-v1#streetAddress",
-    "displayHtml": "https://ishikawabsnnet.github.io/did-web-on-gh-pages/resident-record-v1#displayHtml"
-  }
+  "@context": [
+    "https://www.w3.org/2018/credentials/v1",
+    {
+      "@vocab": "https://ishikawabsnnet.github.io/did-web-on-gh-pages/resident-record-v1#",
+      "birthDate": { "@id": "birthDate", "@type": "xsd:date" },
+      "address": { "@id": "address", "@type": "@id" },
+      "country": { "@id": "country", "@type": "xsd:string" },
+      "gender": { "@id": "gender", "@type": "xsd:string" },
+      "household": { "@id": "household", "@type": "xsd:string" },
+      "locality": { "@id": "locality", "@type": "xsd:string" },
+      "nationality": { "@id": "nationality", "@type": "xsd:string" },
+      "postalCode": { "@id": "postalCode", "@type": "xsd:string" },
+      "region": { "@id": "region", "@type": "xsd:string" },
+      "relationship": { "@id": "relationship", "@type": "xsd:string" },
+      "residentSince": { "@id": "residentSince", "@type": "xsd:date" },
+      "streetAddress": { "@id": "streetAddress", "@type": "xsd:string" },
+      "displayHtml": { "@id": "displayHtml", "@type": "@id" }
+    }
+  ]
 }
