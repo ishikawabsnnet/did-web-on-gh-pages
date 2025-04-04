@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "birthDate": "https://ishikawabsnnet.github.io/did-web-on-gh-pages/resident-record-v1#birthDate",
+    "address": "https://ishikawabsnnet.github.io/did-web-on-gh-pages/resident-record-v1#address",
+    "country": "https://ishikawabsnnet.github.io/did-web-on-gh-pages/resident-record-v1#country",
+    "gender": "https://ishikawabsnnet.github.io/did-web-on-gh-pages/resident-record-v1#gender",
+    "household": "https://ishikawabsnnet.github.io/did-web-on-gh-pages/resident-record-v1#household",
+    "locality": "https://ishikawabsnnet.github.io/did-web-on-gh-pages/resident-record-v1#locality",
+    "nationality": "https://ishikawabsnnet.github.io/did-web-on-gh-pages/resident-record-v1#nationality",
+    "postalCode": "https://ishikawabsnnet.github.io/did-web-on-gh-pages/resident-record-v1#postalCode",
+    "region": "https://ishikawabsnnet.github.io/did-web-on-gh-pages/resident-record-v1#region",
+    "relationship": "https://ishikawabsnnet.github.io/did-web-on-gh-pages/resident-record-v1#relationship",
+    "residentSince": "https://ishikawabsnnet.github.io/did-web-on-gh-pages/resident-record-v1#residentSince",
+    "streetAddress": "https://ishikawabsnnet.github.io/did-web-on-gh-pages/resident-record-v1#streetAddress",
+    "displayHtml": "https://ishikawabsnnet.github.io/did-web-on-gh-pages/resident-record-v1#displayHtml"
+  }
+}
