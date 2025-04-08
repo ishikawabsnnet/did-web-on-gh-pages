@@ -16,7 +16,7 @@
   ],
   "service": [
     {
-      "id": "did:ethr:0xaa36a7:0x4911F14b73A77d57A42765a35c2b3FF38cD997B4#service-28",
+      "id": "did:ethr:0xaa36a7:0x4911F14b73A77d57A42765a35c2b3FF38cD997B4#service-29",
       "type": "IssuerProfile",
       "serviceEndpoint": "https://ishikawabsnnet.github.io/did-web-on-gh-pages/issuer.json"
     }
