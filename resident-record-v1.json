@@ -17,7 +17,8 @@
       "household_head": { "@id": "household_head", "@type": "xsd:string" },
       "previous_address": { "@id": "previous_address", "@type": "xsd:string" },
       "remarks": { "@id": "remarks", "@type": "xsd:string" },
-      "displayHtml": { "@id": "displayHtml", "@type": "@id" }
+      "displayHtml": { "@id": "displayHtml", "@type": "@id" },
+      "image": { "@id": "image", "@type": "@id" }
     }
   ]
 }
