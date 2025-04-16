@@ -2,19 +2,21 @@
   "@context": [
     "https://www.w3.org/2018/credentials/v1",
     {
-      "@vocab": "https://ishikawabsnnet.github.io/did-web-on-gh-pages/resident-record-v1#",
-      "birthDate": { "@id": "birthDate", "@type": "xsd:date" },
-      "address": { "@id": "address", "@type": "@id" },
-      "country": { "@id": "country", "@type": "xsd:string" },
+      "@vocab": "https://example.org/resident-record-v1#",
+      "name": { "@id": "name", "@type": "xsd:string" },
+      "birth_date": { "@id": "birth_date", "@type": "xsd:string" },
       "gender": { "@id": "gender", "@type": "xsd:string" },
-      "household": { "@id": "household", "@type": "xsd:string" },
-      "locality": { "@id": "locality", "@type": "xsd:string" },
-      "nationality": { "@id": "nationality", "@type": "xsd:string" },
-      "postalCode": { "@id": "postalCode", "@type": "xsd:string" },
-      "region": { "@id": "region", "@type": "xsd:string" },
       "relationship": { "@id": "relationship", "@type": "xsd:string" },
-      "residentSince": { "@id": "residentSince", "@type": "xsd:date" },
-      "streetAddress": { "@id": "streetAddress", "@type": "xsd:string" },
+      "head_of_household": { "@id": "head_of_household", "@type": "xsd:string" },
+      "date_of_residency": { "@id": "date_of_residency", "@type": "xsd:string" },
+      "resident_card_code": { "@id": "resident_card_code", "@type": "xsd:string" },
+      "address": { "@id": "address", "@type": "xsd:string" },
+      "move_in_date": { "@id": "move_in_date", "@type": "xsd:string" },
+      "report_date": { "@id": "report_date", "@type": "xsd:string" },
+      "domicile": { "@id": "domicile", "@type": "xsd:string" },
+      "household_head": { "@id": "household_head", "@type": "xsd:string" },
+      "previous_address": { "@id": "previous_address", "@type": "xsd:string" },
+      "remarks": { "@id": "remarks", "@type": "xsd:string" },
       "displayHtml": { "@id": "displayHtml", "@type": "@id" }
     }
   ]
