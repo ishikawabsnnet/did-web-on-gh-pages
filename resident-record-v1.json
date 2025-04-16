@@ -2,7 +2,7 @@
   "@context": [
     "https://www.w3.org/2018/credentials/v1",
     {
-      "@vocab": "https://example.org/resident-record-v1#",
+      "@vocab": "https://ishikawabsnnet.github.io/did-web-on-gh-pages/resident-record-v1#",
       "name": { "@id": "name", "@type": "xsd:string" },
       "birth_date": { "@id": "birth_date", "@type": "xsd:string" },
       "gender": { "@id": "gender", "@type": "xsd:string" },
