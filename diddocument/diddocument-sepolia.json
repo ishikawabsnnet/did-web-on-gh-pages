@@ -1,0 +1,29 @@
+{
+  "id": "did:ethr:0xaa36a7:0x4911F14b73A77d57A42765a35c2b3FF38cD997B4",
+  "verificationMethod": [
+    {
+      "id": "did:ethr:0xaa36a7:0x4911F14b73A77d57A42765a35c2b3FF38cD997B4#controller",
+      "type": "EcdsaSecp256k1RecoveryMethod2020",
+      "controller": "did:ethr:0xaa36a7:0x4911F14b73A77d57A42765a35c2b3FF38cD997B4",
+      "blockchainAccountId": "eip155:11155111:0x4911F14b73A77d57A42765a35c2b3FF38cD997B4"
+    }
+  ],
+  "authentication": [
+    "did:ethr:0xaa36a7:0x4911F14b73A77d57A42765a35c2b3FF38cD997B4#controller"
+  ],
+  "assertionMethod": [
+    "did:ethr:0xaa36a7:0x4911F14b73A77d57A42765a35c2b3FF38cD997B4#controller"
+  ],
+  "service": [
+    {
+      "id": "did:ethr:0xaa36a7:0x4911F14b73A77d57A42765a35c2b3FF38cD997B4#service-37",
+      "type": "IssuerProfile",
+      "serviceEndpoint": "https://ishikawabsnnet.github.io/did-web-on-gh-pages/profile/issuer.json"
+    }
+  ],
+  "@context": [
+    "https://www.w3.org/ns/did/v1",
+    "https://w3id.org/security/suites/secp256k1recovery-2020/v2",
+    "https://w3id.org/security/v3-unstable"
+  ]
+}
