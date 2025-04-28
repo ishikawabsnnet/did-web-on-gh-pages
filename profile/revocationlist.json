@@ -3,11 +3,5 @@
   "id": "https://ishikawabsnnet.github.io/did-web-on-gh-pages/profile/revocationlist.json",
   "type": "RevocationList",
   "issuer": "https://ishikawabsnnet.github.io/did-web-on-gh-pages/profile/issuer.json",
-  "revokedAssertions": [
-    {
-      "id": "urn:uuid:aa10c978-3949-4690-ab6a-1957e9e5f24c",
-      "revocationDate": "2025-04-28T05:29:28.000000+00.00",
-      "revocationReason": "Certificate was issued in error"
-    }
-  ]
+  "revokedAssertions": []
 }
