@@ -3,5 +3,11 @@
   "id": "https://ishikawabsnnet.github.io/did-web-on-gh-pages/profile/revocationlist.json",
   "type": "RevocationList",
   "issuer": "https://ishikawabsnnet.github.io/did-web-on-gh-pages/profile/issuer.json",
-  "revokedAssertions": []
+  "revokedAssertions": [
+    {
+      "id": "urn:uuid:32aa5a95-d623-4de6-9550-3b86d388e607",
+      "revocationDate": "2025-04-28T07:00:08.000000+00.00",
+      "revocationReason": "発行者によって失効されました"
+    }
+  ]
 }
