@@ -1,0 +1,7 @@
+{
+  "@context": "https://w3id.org/blockcerts/v3",
+  "id": "https://ishikawabsnnet.github.io/did-web-on-gh-pages/profile/revocationlist.json",
+  "type": "RevocationList",
+  "issuer": "https://ishikawabsnnet.github.io/did-web-on-gh-pages/profile/issuer.json",
+  "revokedAssertions": []
+}
