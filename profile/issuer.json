@@ -9,7 +9,7 @@
   "publicKey": [
     {
       "id": "ecdsa-koblitz-pubkey:0x4911F14b73A77d57A42765a35c2b3FF38cD997B4",
-      "created": "2025-06-11T00:40:20.000000+00.00"
+      "created": "2025-08-05T04:43:30.000000+00.00"
     }
   ],
   "revocationList": "https://ishikawabsnnet.github.io/did-web-on-gh-pages/profile/revocationlist.json"
